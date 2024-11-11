@@ -1,21 +1,21 @@
 # EXAMEN DAW 
 ## INDECE
-  1-Motivación.
-  2-Palabras clave.
-  3-Actividades realizadas.
-  4-Conclusión.
+  1-Motivación.  
+  2-Palabras clave.  
+  3-Actividades realizadas.  
+  4-Conclusión.  
 
-### MOTIVACIÓN
-  El aprobar este examen es la mayor motivación que tengo, también el aprender cada dia algo nuevo.
+### MOTIVACIÓN  
+  El aprobar este examen es la mayor motivación que tengo, también el aprender cada dia algo nuevo.  
 
-### PALABRAS CLAVE
-  * SSH
-  * MarkDown
-  * DAW
-  * Apache
-  * Virtual Host
+### PALABRAS CLAVE  
+  * SSH  
+  * MarkDown  
+  * DAW  
+  * Apache  
+  * Virtual Host  
 
-### DOCUMENTACION EJERCICIO 2.
+### DOCUMENTACION EJERCICIO 2.  
 
 **1. Primero he accedido al servidor mediante el comando ssh usuario@192.168.0.185**  
 ![imagen](https://github.com/user-attachments/assets/59e85444-35da-4af7-9846-66fe75831aac)  
@@ -35,7 +35,7 @@
 
 
 ## DOCUMENTACION EJERCICIO 3.  
-**1. Instalamos apache.** 
+**1. Instalamos apache.**  
 ![imagen](https://github.com/user-attachments/assets/1e01c9e4-6926-458d-8caf-c8a09d914e8b) 
 
 **2. Hacemos un sudo apt update**  
@@ -64,11 +64,11 @@
 **9. Por ultimo accedemos a /etc/hosts con un sudo nano, dentro ponemos nuestra ip y el dominio que queremos acceder**
 ![imagen](https://github.com/user-attachments/assets/eb23e77f-b11a-497b-852e-ff89bdca9284)
 
-### CONCLUSIÓN
-En resumen, este examen me ayudó a reforzar habilidades como conectarme al servidor con SSH, configurar Apache y crear un Virtual Host. Fue una buena práctica para entender cómo funcionan estos servicios y seguir aprendiendo.
+### CONCLUSIÓN  
+En resumen, este examen me ayudó a reforzar habilidades como conectarme al servidor con SSH, configurar Apache y crear un Virtual Host. Fue una buena práctica para entender cómo funcionan estos servicios y seguir aprendiendo.  
 
-### BIBLIOGRAFIA
-Apuntes de clase.
+### BIBLIOGRAFIA  
+Apuntes de clase.  
 
 
 
