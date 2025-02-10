@@ -1,5 +1,5 @@
 # EXAMEN DAW 
-## INDECE
+## ÍNDICE
   1-Motivación.  
   2-Palabras clave.  
   3-Actividades realizadas.  
